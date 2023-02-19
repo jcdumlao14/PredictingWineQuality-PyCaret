@@ -14,8 +14,9 @@ Are you a wine enthusiast with a passion for data analysis? If so, you're in for
 
 The goal is to use this dataset for research purposes, particularly in the fields of data mining, regression analysis, and feature selection.
 
-|Input variables (based on physicochemical tests)|
+|Attribute information|
 |---|
+|Input variables (based on physicochemical tests)|
 |1 - fixed acidity (tartaric acid - g / dm^3)|
 |2 - volatile acidity (acetic acid - g / dm^3)|
 |3 - citric acid (g / dm^3)|

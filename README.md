@@ -12,4 +12,5 @@ Are you a wine enthusiast with a passion for data analysis? If so, you're in for
 
 The goal is to use this dataset for research purposes, particularly in the fields of data mining, regression analysis, and feature selection.
 
-## Exploratory Data Analysis 
+
+### References: [Red Wine Quality](https://www.kaggle.com/datasets/piyushgoyal443/red-wine-dataset) 
